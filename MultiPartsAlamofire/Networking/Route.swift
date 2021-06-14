@@ -1,6 +1,5 @@
 //
 //  Route.swift
-//  TableViewWithMultipleCellTypes
 //
 //  Created by Rashid on 07/10/2020.
 //  Copyright © 2020 Stanislav Ostrovskiy. All rights reserved.
